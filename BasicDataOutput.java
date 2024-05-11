@@ -1,4 +1,4 @@
-// this is a program demonstrating the output function in java
+// this is a program demonstrating the basic method of data output in Java
 
 public class BasicDataOutput{
   public static void main(String[] args){
