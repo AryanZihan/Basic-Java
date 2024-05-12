@@ -13,5 +13,5 @@ public class BasicVariableUsage {
    System.out.println("Name : "+name);
    System.out.println("Age : "+age+" years");
    System.out.print("Blood group : "+bloodgroup+" positive");
-}
+ }
 }
