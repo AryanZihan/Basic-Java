@@ -1,3 +1,5 @@
+//this program demonstrates the basic usage of different escape sequences in Java
+
 public class BasicEscapeSequence {
   public static void main(String[] args) {
     
