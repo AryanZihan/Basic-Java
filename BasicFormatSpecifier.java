@@ -1,6 +1,8 @@
+//this program demonstrates the basic usage of format specifiers in Java
+
 public class BasicFormatSpecifier {
   public static void main(String[] args) {
-     String name;
+   String name;
    int age;
    char bloodgroup;
    
