@@ -1,3 +1,5 @@
+//this is a Java program that performs basic addition between two numbers, taking input from the user
+
 import java.util.Scanner;
   public class BasicAddition {
   public static void main(String[] args) {
