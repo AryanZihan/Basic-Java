@@ -1,3 +1,5 @@
+//This Java program performs subtraction between two numbers provided by the user
+
 import java.util.Scanner;
 public class BasicSubtration {
   public static void main(String[] args) {
