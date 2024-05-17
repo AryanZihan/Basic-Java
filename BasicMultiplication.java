@@ -1,3 +1,5 @@
+//this Java program performs multiplication between two numbers, taking input from the user
+
 import java.util.Scanner;
 public class BasicMultiplication {
   public static void main(String[] args) {
