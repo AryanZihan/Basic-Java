@@ -1,3 +1,5 @@
+//This Java program  demonstrates the basic usage of Switch Statements
+
 import java.util.Scanner;
 
 public class BasicSwitchStatement {
@@ -8,7 +10,6 @@ public class BasicSwitchStatement {
     
     System.out.println("Enter any digit between 0 and 5: ");
     digit = input.nextInt();
-    
     switch(digit) {
     case 0:
       {
