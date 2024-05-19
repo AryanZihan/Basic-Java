@@ -1,4 +1,6 @@
-//This Java program performs division between two numbers, taking input from the user. The quotient and remainder are indicated in separate output lines
+/*This Java program performs division between two numbers after taking input from the user 
+ *The quotient and remainder are indicated in separate output lines
+ */
 
 import java.util.Scanner;
 public class BasicDivision {
