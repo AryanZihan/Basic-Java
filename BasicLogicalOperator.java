@@ -1,3 +1,5 @@
+//this Java program demonstrates the basic application of logical operators
+
 import java.util.Scanner;
 
 public class BasicLogicalOperator {
