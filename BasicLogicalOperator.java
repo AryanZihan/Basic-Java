@@ -1,4 +1,4 @@
-//this Java program demonstrates the basic application of logical operators
+//this Java program demonstrates the basic application of logical operators, particularly "greater than(>)"
 
 import java.util.Scanner;
 
